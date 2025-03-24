@@ -1,7 +1,7 @@
 # roblox-auth
 This code is used to disable and enable roblox authentication, it's for educational purposes.
 
- there are no bypass have been found yet, so you can enjoy those, and my discord is **benandreass**
+Bypassers are officially patched last week, so you can enjoy those, and my discord is **benandreass** 
+You can message me for the coding services.
 
-DM me for my coding services.
 `pip install pyotp cryptography`
